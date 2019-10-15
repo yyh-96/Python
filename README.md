@@ -1,4 +1,4 @@
 这里记录了我在自学python数据结构与算法过程中的学习笔记和心得，欢迎查阅！
 
-欢迎转往个人博客：<https://yyh-96.github.io>
+欢迎转往[个人博客](https://yyh-96.github.io)。
 
