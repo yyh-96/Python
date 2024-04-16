@@ -6,7 +6,8 @@ description: 算法分析与大O记法，以及Python数据结构的性能
 keywords: Algorithms,Data Structures,Python
 ---
 
-本文是我自学Python过程的学习笔记和心得体会，不求全面，参考书籍**《Python数据结构与算法分析》**。
+本文是我自学Python过程的学习笔记和心得体会，参考书籍**《Python数据结构与算法分析》**。
+
 --------
 ## 算法分析
 
